@@ -1,0 +1,33 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Sistema auxiliar de oficinas, para veículos da linha leve",
+  "keywords": [
+    "Sistema",
+    "oficina",
+    "mecânico",
+    "mecânica",
+    "torque",
+    "aperto",
+    "tabela",
+    "folgas",
+    "manual",
+    "motor",
+    "técnico",
+    "informações"
+  ],
+  "homepage": "https://github.com/Merenciou/Bielar#readme",
+  "bugs": {
+    "url": "https://github.com/Merenciou/Bielar/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Merenciou/Bielar.git"
+  },
+  "author": "Merenciou",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
